@@ -1,0 +1,96 @@
+<html lang="ru">
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <title>Технологии Умного Дома</title>
+</head>
+<body>
+ <div class="container">
+ <h1>Технологии Умного Дома </h1>
+ </div>
+ <div class="image-container">
+ <img src="https://mobistore.by/files/uploads/Yandex_Station/21616f60dd2f86540fb52f7a836cd541.png" class="responsive">
+</div>
+ <div class="container">
+<p>Примеры устройств умного дома от <strong>Yandex</strong>.
+</p>
+</div>
+<div class="container">
+<h2>Управление светом</h2>
+ </div>
+ <p><strong>Технология:</strong> Умные лампы и системы освещения позволяют управлять яркостью, цветом и временем включения/выключения света <strong>через мобильное приложение или голосовые команды.</strong> Многие системы интегрируются с умными помощниками, такими как <strong>"Маруся" от VK, Siri от Apple или Yandex Алиса.</strong></p>
+ <p><strong>Актуальность умного управления светом:</strong> С ростом популярности экологически чистых технологий и энергосбережения, умные системы освещения становятся всё более актуальными. <strong>Они помогают снизить потребление энергии</strong>, а также создают комфортную атмосферу в доме.</p>
+<div class="image-container">
+<img src="https://avatars.mds.yandex.net/i?id=813fac4291f5f29134699b5059aecf6e69427f45-6888117-images-thumbs&n=13" class="responsive">
+</div>
+<div class="container">
+<h2> Подогреваемый пол</h2>
+</div>
+<p><strong>Технология:</strong> Системы подогрева пола обеспечивают <strong>равномерное распределение тепла по помещению.</strong> Они могут быть электрическими или водяными и <strong>управляются через термостаты, которые можно программировать.</strong></p>
+<p><strong>Актуальность умного подогрева пола:</strong> С увеличением числа людей, работающих из дома, комфорт в жилом пространстве становится приоритетом. Подогреваемые полы обеспечивают уют и комфорт, особенно в холодное время года. <strong>Умные термостаты могут автоматически регулировать температуру в доме</strong> в зависимости от ваших предпочтений и внешних условий. <strong>Они могут обучаться вашим привычкам и оптимизировать потребление энергии.</strong></p>
+<div class="image-container">
+<img src="https://avatars.mds.yandex.net/i?id=1ecc44c2c09e6bbfe3dac74edda691e4f607a0be-5514197-images-thumbs&n=13" class="responsive">
+</div>
+<div class="container">
+<h2>Безопасность</h2>
+</div>
+<p><strong>Технология:</strong> Умные системы безопасности включают <strong>видеокамеры, датчики движения, сигнализации и замки</strong>, которые могут быть <strong>удаленно контролируемыми через приложения.</strong> Некоторые системы могут отправлять уведомления на телефон в случае подозрительной активности.</p>
+ <p><strong>Актуальность умной системы безопасности:</strong> Безопасность остаётся важной темой для многих людей. С увеличением числа киберугроз и преступлений против собственности, <strong>умные системы безопасности предлагают повышенный уровень защиты и удобства.</strong></p>
+<div class="image-container">
+<img src="https://avatars.mds.yandex.net/i?id=c993611f6cb02949e84d51edff57e00a907190c8-4079348-images-thumbs&n=13" class="responsive">
+ </div>
+ <div class="container">
+     <h2>Экономия при помощи умного дома</h2>
+     </div>
+ <p>
+   Умные термостаты способны <strong>регулировать температуру в зависимости от времени суток</strong>, лампочки от <strong>Yandex</strong> оснащены датчиками движения, от чего <strong>сами выключаются при отсутствии человека в комнате.</strong>
+   Умные системы полива умеют <strong>автоматически регулировать количество воды</strong>, необходимое для растений исходя из погодных условий, что <strong>позволяет экономить воду и снизить счета за коммунальные услуги.</strong>
+ </p>
+<style>
+body {
+ font-family: Arial, sans-serif;
+line-height: 1.6;
+ margin: 20px;
+background-color: #f9f9f9;
+ }
+ h1 {
+ color: #230D21;
+ }
+ h2 {
+ color: #1E213D;
+    }
+ p {
+ color: #002137;
+ }
+ ul
+ {margin: 10px 0;
+padding-left: 20px;}
+
+        body {
+            margin: 0;
+            height: 100vh; 
+            background: linear-gradient(to right, #ABCDEF, #6495ED); 
+        }
+        h1 {
+font-family: apyrus;
+}
+h2 {
+    font-family: apyrus;
+    font-size: 32px
+}
+ .responsive {
+            width: 80%; 
+            height: auto; 
+ }
+         .container {
+            display: flex; 
+            justify-content: center; 
+            align-items: center; 
+            height: 20vh; 
+        }
+         .image-container {
+            text-align: center; 
+        }
+</style>
+</body>
+</html>
